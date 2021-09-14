@@ -17,3 +17,5 @@ function products(nam,pe,qt)
 var Item2=new products("Monaco",10,200)
 
 document.write("<h1>",Item2["name"]," ",Item2.name," ",Item2.price)
+
+div = document.querySelector("")
